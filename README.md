@@ -1,2 +1,2 @@
 # Some_site
-Some site for raffle
+Site for GB raffle
