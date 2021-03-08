@@ -1,2 +1,2 @@
-# Some_site
+# Site
 Site for GB raffle
