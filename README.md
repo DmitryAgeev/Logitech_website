@@ -1,2 +1,2 @@
-# Site
-Site for GB raffle
+# Logitech site
+The site for the raffle Logitech and GB
